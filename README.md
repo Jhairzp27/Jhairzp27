@@ -8,6 +8,9 @@
 </p>
 
 
+Spotify: 
+
+[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)
 
 <!--
 **Jhairzp27/Jhairzp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
