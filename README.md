@@ -1,11 +1,9 @@
-<img src="Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif" width="1024px" height="200px">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=600&height=100&lines=Gregory+Jhair+Zambrano...;Software+engineering+student;Love+to+learn+new+stuffs..;Music+Lover"></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="24px">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=600&height=100&lines=Gregory+Jhair+Zambrano...;Software+engineering+student;Music+Lover;Love+to+learn+new+stuffs.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="77px">
 </p>
 
-<!--- Social:
--->
+<!--- My Social Networks:-->
 <p align="center">
   <a href="https://www.linkedin.com/in/jhair-zambrano-6a6a13273"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="LinkedIn.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -19,50 +17,87 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-# 😜About me:
+# 😜 About me:
 
-<!--
-- 🔭 I’m studying in Escuela Politecnica Nacional
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="17px" alt="EPN" title="EPN" src="image.png"/> I’m studying in  National Polytechnic School.</a>&#8287;&#8287;&#8287;&#8287;&#8287;
 
-# Tech Stack: <a href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"><img width="32px" alt="Gift" title="PC" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"></a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img align="left" src="Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif" width="400px" height="250px">
+<hr>
 
-# 📊 GitHub Stats:
+```
+I-am-jhairzp27@github
+-------------------------
+🙋 I’m 20 years.
+🤝 I’m looking to collaborate on interesting projects.
+🧑‍💻 I'm constantly learning.
+🚩 Interested in Full Stack Machine Learning Application development
+🎵 Love metal, lofi, jazz and soft music
+-------------------------
+```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&include_all_commits=true&count_private=true)
+<hr>
+
+
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> Programming languages
+
+<p align="center">
+  <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=java,md,html,css"/></a>
+  <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=matlab,cpp,py"/></a>
+</p>
+
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px> IDES
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,bash,git,sqlite" />
+  </a>
+</p>
+
+### 🔎 Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,vercel,powershell" />
+  </a>
+</p>
+
+|🔝Top languages   |   🎧Now Playing:|
+|-------------------|---------------|
+|![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)
+|
+
+
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats:
+
+<p align ="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&include_all_commits=true&count_private=true">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true">
+</p>
+
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true)
 
-![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
+ ### ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+-->
 
-### Top Contributed Repo <a href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"><img width="32px" alt="Gift" title="Handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+## <a href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"><img width="32px" alt="Gift" title="Handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"> Top Contributed Repo </a>&#8287;&#8287;&#8287;&#8287;&#8287;
+<p align = "center">
+  <img src = "https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true">
+</p>
 
-![Contibution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+<!--![Contibution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)-->
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<details>
+<summary>👆 Clic to view</summary>
+<img src='https://randommeme-five.vercel.app/' style="height: 367px;"/>
+</details>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jhairzp27&icon=7&color=2)](https://visitcount.itsvg.in)
@@ -75,7 +110,3 @@
 **Paypal**
 
   <!--[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jhairzp27)-->
-
-## 🎧Now Playing:
-
-[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)
