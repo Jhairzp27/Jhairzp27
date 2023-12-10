@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=600&height=100&lines=Gregory+Jhair+Zambrano...;Software+engineering+student;Music+Lover;Love+to+learn+new+stuffs.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="77px">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=600&height=100&lines=Gregory+Jhair+Zambrano...;Software+engineering+student;Music+Lover;Love+to+learn+new+stuffs.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="37px">
 </p>
 
 <!--- My Social Networks:-->
@@ -19,11 +19,10 @@
 
 # 😜 About me:
 
-<a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="17px" alt="EPN" title="EPN" src="image.png"/> I’m studying in  National Polytechnic School.</a>&#8287;&#8287;&#8287;&#8287;&#8287;
-
+<p>
+<a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="17px" alt="EPN" title="EPN" src="image.png"/></a> I’m studying in  National Polytechnic School.
 <img align="left" src="Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif" width="400px" height="250px">
-<hr>
-
+  
 ```
 I-am-jhairzp27@github
 -------------------------
@@ -34,9 +33,7 @@ I-am-jhairzp27@github
 🎵 Love metal, lofi, jazz and soft music
 -------------------------
 ```
-
-<hr>
-
+</p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> Programming languages
 
@@ -63,8 +60,7 @@ I-am-jhairzp27@github
 
 |🔝Top languages   |   🎧Now Playing:|
 |-------------------|---------------|
-|![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)
-|
+|![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
 
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats:
@@ -78,14 +74,12 @@ I-am-jhairzp27@github
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true)
 
-
-
  ### ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 -->
 
-## <a href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"><img width="32px" alt="Gift" title="Handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"> Top Contributed Repo </a>&#8287;&#8287;&#8287;&#8287;&#8287;
+## <a href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"><img width="40px" alt="Gift" title="Handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"></a>  Top Contributed Repo
 <p align = "center">
   <img src = "https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true">
 </p>
