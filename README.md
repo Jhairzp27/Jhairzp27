@@ -22,6 +22,7 @@
 # 😜 About me:
 <p>
 <img align="left" src="Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif" width="400px" height="250px">
+  
 <a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="17px" alt="EPN" title="EPN" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I’m studying in  National Polytechnic School.
 
 ```
@@ -34,6 +35,7 @@ I-am-jhairzp27@github
 🎵 Love metal, lofi, jazz and soft music
 -------------------------
 ```
+
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> Programming languages
