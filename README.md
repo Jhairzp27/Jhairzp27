@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=600&height=100&lines=Gregory+Jhair+Zambrano...;Software+engineering+student;Music+Lover;Love+to+learn+new+stuffs.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="37px">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=777&height=100&lines=Gregory+Jhair+Zambrano...;Software+engineering+student;Music+Lover;Love+to+learn+new+stuffs.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="37px">
 </p>
 
 <!--- My Social Networks:-->
@@ -24,8 +24,8 @@
 # 😜 About me:
 
 <p>
-<a href = "" alt = "MatrixOrgange" title = "MatrixOrange">
-<img align="left" src =" " widht="389px" height="250px"/></a>
+<a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" alt = "MatrixOrgange" title = "MatrixOrange">
+<img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" widht="389px" height="250px"/></a>
 
 <a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="17px" alt="EPN" title="EPN" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I’m studying in  National Polytechnic School.
 
