@@ -17,11 +17,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!--![Alt text](Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_-1.gif)-->
+<!--![Alt text](Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif)-->
 
 # 😜 About me:
 <p>
-<img align="left" src="Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_-1.gif" width="400px" height="250px">
+<img align="left" src="Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif" width="400px" height="250px">
 <a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="17px" alt="EPN" title="EPN" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I’m studying in  National Polytechnic School.
 
 ```
@@ -43,7 +43,7 @@ I-am-jhairzp27@github
   <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=matlab,cpp,py"/></a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px> IDES
+### ⚒️ IDES
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -71,21 +71,12 @@ I-am-jhairzp27@github
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true">
 </p>
 
-<!--![Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&include_all_commits=true&count_private=true)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true)
 
- ### ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
--->
-
-## <a href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"><img width="40px" alt="Gift" title="Handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"></a>  Top Contributed Repo
+## 🤝 Top Contributed Repo
 <p align = "center">
   <img src = "https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true">
 </p>
-
-<!--![Contibution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)-->
 
 ### 😂 Random Dev Meme
 
