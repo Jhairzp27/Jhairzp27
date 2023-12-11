@@ -69,15 +69,11 @@ I-am-jhairzp27@github
 |-------------------|---------------|
 |![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
 
-
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats:
-
-<p align ="center">
+<p align ="center">  
   <img src = "https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&include_all_commits=true&count_private=true">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true">
 </p>
-
-
 
 ## 🤝 Top Contributed Repo
 <p align = "center">
