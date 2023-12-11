@@ -88,7 +88,8 @@ I-am-jhairzp27@github
 
 <details>
 <summary>👆 Clic to view</summary>
-<img src='https://randommeme-five.vercel.app/' style="height: 367px;"/>
+<p align = "center">
+<img src='https://randommeme-five.vercel.app/' style="height: 367px;"/></p>
 </details>
 
 ---
