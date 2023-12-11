@@ -5,24 +5,24 @@
 
 <!--- My Social Networks:-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhair-zambrano-6a6a13273"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="LinkedIn.png"/></a>
+  <a href="https://www.linkedin.com/in/jhair-zambrano-6a6a13273"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/LinkedIn.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/jhairzp27"><img width="32px" alt="Twitter" title="X (Twitter)Jhair" src="x_twitter.png"/></a>
+  <a href="https://twitter.com/jhairzp27"><img width="32px" alt="Twitter" title="X (Twitter)Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/x_twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/jhair_zambrano" alt="Instagram" title="Instagram Jhair"><img width="32px" src="Instagram.png"/></a>
+  <a href="https://www.instagram.com/jhair_zambrano" alt="Instagram" title="Instagram"><img width="32px" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/Jhairzp27/"><img width="32px" alt="Reddit" title="Reddit Logo Jhair" src="Reddit.png"></a>
+  <a href="https://www.reddit.com/user/Jhairzp27/"><img width="32px" alt="Reddit" title="Reddit Logo Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Reddit.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://paypal.me/jhairzp27"><img width="32px" alt="LinkedIn" title="LinkedIn" src="Paypal-1.png"/></a>
+  <a href="https://paypal.me/jhairzp27"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Paypal-1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 # 😜 About me:
 
 <p>
-<a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="17px" alt="EPN" title="EPN" src="image.png"/></a> I’m studying in  National Polytechnic School.
-<img align="left" src="Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif" width="400px" height="250px">
-  
+<img align="left" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif" width="400px" height="250px">
+<a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="17px" alt="EPN" title="EPN" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I’m studying in  National Polytechnic School.
+
 ```
 I-am-jhairzp27@github
 -------------------------
@@ -98,7 +98,7 @@ I-am-jhairzp27@github
 
 ## 💰 You can help me by Donating
 
-<a href="https://paypal.me/jhairzp27"><img width="32px" alt="LinkedIn" title="LinkedIn" src="Paypal-1.png"/></a>
+<a href="https://paypal.me/jhairzp27"><img width="32px" alt="Paypal" title="Paypal" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Paypal.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 **Paypal**
