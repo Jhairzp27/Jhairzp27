@@ -17,10 +17,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!--![Alt text](Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif)
-
-<img align="left" src="Matrix-%E2%80%90-Hecho-con-Clipchamp-_1_.gif" width="400px" height="250px">-->
-
 # 😜 About me:
 
 <p>
@@ -74,16 +70,13 @@ I-am-jhairzp27@github
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats:
 
-<p align ="center">  
-  <img src = "https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&include_all_commits=true&count_private=true">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true">
-</p>
+![Jhairzp27 Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&include_all_commits=true&count_private=true")
+
+![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true")
 
 ## 🤝 Top Contributed Repo
 
-<p align = "center">
-  <img src = "https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true">
-</p>
+![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
 
@@ -92,7 +85,7 @@ I-am-jhairzp27@github
 
 **Paypal**
 
-# 🏆 GithHub Trophies
+## 🏆 GithHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jhairzp27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
