@@ -30,13 +30,14 @@ src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I’
 
 ```
 I-am-jhairzp27@github
------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 🙋 I’m enthusiastic about crafting innovative applications and solving complex problems in the tech world.
-🤝 I easily adapt and integrate into diverse work environments, fostering seamless collaboration and contributing effectively to team dynamics.
+🤝 I easily adapt and integrate into diverse work environments, fostering seamless collaboration and
+    contributing effectively to team dynamics.
 🧑‍💻 I’m passionate about learning new technologies and languages.
 🚩 Aspiring to contribute to open-source projects and build meaningful software solutions.
 🎵 Love heavy metal, rock, metal, indie, pop and soft music
-------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 ```
 
 </p>
