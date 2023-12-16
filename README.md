@@ -4,7 +4,6 @@
 </p>
 
 <!--- My Social Networks:-->
-----
 <p align="center">
   <a href="https://www.linkedin.com/in/jhair-zambrano-6a6a13273"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/LinkedIn.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -66,7 +65,8 @@ I-am-jhairzp27@github
   </a>
 </p>
 
----
+## 
+
 |🔝Top languages   |   🎧Now Playing:|
 |-------------------|-----------------|
 |![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
@@ -81,7 +81,7 @@ I-am-jhairzp27@github
 
 </div>
 
-## 🤝 Top Contributed Repo
+## 🤝 Top Contributed Repo:
 
 <div align ="center">
   
