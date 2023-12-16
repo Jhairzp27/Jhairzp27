@@ -1,4 +1,4 @@
-
+<!-----  SALUDO ---->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=777&height=100&lines=Gregory+Jhair+Zambrano...;Software+engineering+student;Music+Lover;Love+to+learn+new+stuffs.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="37px">
 </p>
@@ -48,7 +48,7 @@ I-am-jhairzp27@github
   <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=matlab,cpp,py"/></a>
 </p>
 
-### ⚒️ IDES
+### ⚒️ IDES:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,7 +56,7 @@ I-am-jhairzp27@github
   </a>
 </p>
 
-### 🔎 Tools
+### 🔎 Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -70,25 +70,34 @@ I-am-jhairzp27@github
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats:
 
-![Jhairzp27 Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&include_all_commits=true&count_private=true")
+<div align = "center"> 
+  
+  ![Jhairzp27 Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&include_all_commits=true&count_private=true")
 
-![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true")
+  ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true")
+
+</div>
 
 ## 🤝 Top Contributed Repo
 
-![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+<div align ="center">
+  
+  ![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+  
+</div>
 
-## 💰 You can help me by Donating
+## 💰 You can help me by Donating:
 
 <a href="https://paypal.me/jhairzp27"><img width="32px" alt="Paypal" title="Paypal" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Paypal.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 **Paypal**
 
-## 🏆 GithHub Trophies
+## 🏆 GithHub Trophies:
+
 ![](https://github-profile-trophy.vercel.app/?username=Jhairzp27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme:
 
 <details>
 <summary>👆 Clic to view</summary>
