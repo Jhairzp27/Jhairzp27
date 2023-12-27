@@ -85,7 +85,7 @@ I-am-jhairzp27@github
 
 <div align ="center">
   
-  ![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+  ![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true&cache_seconds=14400&show_owner=true)
   
 </div>
 
