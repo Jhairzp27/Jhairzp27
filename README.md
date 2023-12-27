@@ -69,7 +69,7 @@ I-am-jhairzp27@github
 
 |🔝Top languages   |   🎧Now Playing:|
 |-------------------|-----------------|
-|![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&layout=compact&count_private=true&cache_seconds=14400&disable_animations=false)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
+|![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&layout=compact&count_private=true&cache_seconds=14400&disable_animations=true)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats:
 
@@ -85,7 +85,7 @@ I-am-jhairzp27@github
 
 <div align ="center">
   
-  ![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true&cache_seconds=14400&show_owner=true)
+  ![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true&cache_seconds=14400&show_owner=true&disable_animations=true)
   
 </div>
 
