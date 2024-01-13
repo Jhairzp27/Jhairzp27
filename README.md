@@ -17,12 +17,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-# 😜 About me:
-
 <table align = "right">
 <tr><td><a href ="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="US flag" width = "17px">English</a><td></tr>
 <tr><td><a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Ec flag" width= "17px">Spanish</a></td></tr>
 </table>
+
+# 😜 About me:
 
 <p>
 <a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" alt = "MatrixOrgange" title = "MatrixOrange">
@@ -41,7 +41,7 @@ I-am-jhairzp27@github
     contributing effectively to team dynamics.
 🧑‍💻 I’m passionate about learning new technologies and languages.
 🚩 Aspiring to contribute to open-source projects and build meaningful software solutions.
-🎵 Love heavy metal, rock, metal, indie, pop and soft music
+🎵 Love heavy metal, rock, metal, indie, pop, reggae and soft music
 -----------------------------------------------------------------------------------------------------------
 ```
 
