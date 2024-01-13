@@ -1,6 +1,6 @@
 <!-----  SALUDO ---->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=777&height=100&lines=Gregory+Jhair+Zambrano...;+Estudiante de Ingeniería en Software;Me encanta la música;Enfocado en aprender nuevas habilidades.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="37px">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=777&height=100&lines=Gregory+Jhair+Zambrano...;+Estudiante+de+Ingeniería+en+Software;Me+encanta+la+música;Enfocado+en+aprender+nuevas+habilidades.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="37px">
 </p>
 
 <!--- My Social Networks:-->
@@ -26,7 +26,7 @@
 
 <p>
 <a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" alt = "MatrixOrgange" title = "MatrixOrange">
-<img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="400px" height="250px"/></a>
+<img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="452px" height="287px"/></a>
 
 <p align = "center">
 <a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="19px" alt="EPN" title="Escuela Politecnica Nacional"     
@@ -35,17 +35,15 @@ src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> Estu
 
 ```
 Hola-soy-jhairzp27@github
------------------------------------------------------------------------------------------------------------
-🙋 Me entusiasma crear aplicaciones innovadoras y resolver
-    problemas complejos en el mundo de la tecnología.
-🤝 Me adapto e integro fácilmente en diversos entornos de trabajo,
-    fomentando una colaboración fluida y contribuyendo eficazmente
-    a la dinámica del equipo.
-🧑‍💻 Me apasiona aprender nuevas tecnologías e idiomas.
-🚩 Aspiro contribuir en proyectos interesantes y crear soluciones
-    de software significativas.
-🎵 Me encanta el heavy metal, el rock, el indie, el pop, el reaggae y la música suave.
------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+🙋  Me entusiasma crear aplicaciones innovadoras y resolver problemas complejos en el mundo.
+    de la tecnología.
+🤝  Me adapto e integro fácilmente en diversos entornos de trabajo,
+    fomentando una colaboración fluida y contribuyendo eficazmente a la dinámica del equipo.
+🧑‍💻  Me apasiona aprender nuevas tecnologías e idiomas.
+🚩  Aspiro contribuir en proyectos interesantes y crear soluciones de software significativas.
+🎵  Me encanta el heavy metal, el rock, el indie, el pop, el reaggae y la música suave.
+-----------------------------------------------------------------------------------------------
 ```
 
 </p>

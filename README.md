@@ -26,7 +26,7 @@
 
 <p>
 <a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" alt = "MatrixOrgange" title = "MatrixOrange">
-<img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="400px" height="250px"/></a>
+<img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="450px" height="275px"/></a>
 
 <p align = "center">
 <a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="19px" alt="EPN" title="Escuela Politecnica Nacional"     
