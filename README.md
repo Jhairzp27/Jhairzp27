@@ -19,6 +19,11 @@
 
 # 😜 About me:
 
+<table>
+<td><a href ="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md">English</a><td>
+<td><a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md">Spanish</a></td>
+</table>
+
 <p>
 <a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" alt = "MatrixOrgange" title = "MatrixOrange">
 <img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="400px" height="250px"/></a>
