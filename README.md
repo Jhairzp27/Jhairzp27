@@ -17,9 +17,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<table align = "right">
-<tr><td><a href ="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="US flag" width = "17px">English</a><td></tr>
-<tr><td><a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Ec flag" width= "17px">Spanish</a></td></tr>
+<table align="right">
+ <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md"><img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="EU flag" width = "17px">English</a></td></tr>
+ <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Ec flag" width= "17px">Spanish</a></td></tr>
 </table>
 
 # 😜 About me:

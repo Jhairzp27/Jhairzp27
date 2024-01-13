@@ -17,9 +17,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<table align = "right">
-<tr><td><a href ="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="Bandera de EU" width = "17px">Inglés</a><td></tr>
-<tr><td><a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Bandera de Ec" width= "17px">Esapañol</a></td></tr>
+<table align="right">
+ <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md"><img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="Bandera de EU" width = "17px">Inglés</a></td></tr>
+ <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Bandera de Ec" width= "17px">Español</a></td></tr>
 </table>
 
 # 😜 Acerca de mi:
@@ -36,11 +36,14 @@ src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> Estu
 ```
 Hola-soy-jhairzp27@github
 -----------------------------------------------------------------------------------------------------------
-🙋 Me entusiasma crear aplicaciones innovadoras y resolver problemas complejos en el mundo de la tecnología.
+🙋 Me entusiasma crear aplicaciones innovadoras y resolver
+    problemas complejos en el mundo de la tecnología.
 🤝 Me adapto e integro fácilmente en diversos entornos de trabajo,
-      fomentando una colaboración fluida y contribuyendo eficazmente a la dinámica del equipo.
+    fomentando una colaboración fluida y contribuyendo eficazmente
+    a la dinámica del equipo.
 🧑‍💻 Me apasiona aprender nuevas tecnologías e idiomas.
-🚩 Aspiro contribuir en proyectos interesantes y crear soluciones de software significativas.
+🚩 Aspiro contribuir en proyectos interesantes y crear soluciones
+    de software significativas.
 🎵 Me encanta el heavy metal, el rock, el indie, el pop, el reaggae y la música suave.
 -----------------------------------------------------------------------------------------------------------
 ```
