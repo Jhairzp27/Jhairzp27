@@ -79,11 +79,11 @@ Hola-soy-jhairzp27@github
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> Mis estadísticas en GitHub:
 
-<div align = "center"> 
+<div align = "center">
   
-  ![Jhairzp27 Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=14400&hide_rank=false&disable_animations=true)
+  ![Jhairzp27 Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&disable_animations=true)
 
-  ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true&cache_seconds=14400&disable_animations=true)
+  ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true&disable_animations=true)
 
 </div>
 
@@ -91,7 +91,7 @@ Hola-soy-jhairzp27@github
 
 <div align ="center">
   
-  ![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true&cache_seconds=14400&show_owner=true&disable_animations=true)
+  ![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true&show_owner=true&disable_animations=true)
   
 </div>
 
