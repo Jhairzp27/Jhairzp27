@@ -52,13 +52,14 @@ I-am-jhairzp27@github
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=java,md,html,css"/></a>
   <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=matlab,cpp,py,sqlite"/></a>
+  <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=c,redis"/></a>
 </p>
 
 ### ⚒️ IDES:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" />
   </a>
 </p>
 
@@ -66,7 +67,7 @@ I-am-jhairzp27@github
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,powershell,git,bash" />
+    <img src="https://skillicons.dev/icons?i=firebase,vercel,powershell,git,bash,blender" />
   </a>
 </p>
 
