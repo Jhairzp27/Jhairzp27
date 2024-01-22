@@ -5,7 +5,7 @@
 
 <!--- My Social Networks:-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhair-zambrano-6a6a13273"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/LinkedIn.png"/></a>
+  <a href="www.linkedin.com/in/gregoy-jhair-zambrano-6a6a13273"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/LinkedIn.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/jhairzp27"><img width="32px" alt="Twitter" title="X (Twitter)Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/x_twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
