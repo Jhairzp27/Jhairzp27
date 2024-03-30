@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=777&height=100&lines=Gregory+Jhair+Zambrano...;+Estudiante+de+Ingeniería+en+Software;Me+encanta+la+música;Enfocado+en+aprender+nuevas+habilidades.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="37px">
 </p>
-
 <!--- My Social Networks:-->
 <p align="center">
   <a href="https://www.linkedin.com/in/jhair-zambrano-6a6a13273"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/LinkedIn.png"/></a>
@@ -17,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<table align="right">
+<table align="right" style = "margin-top: 11px">
  <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md"><img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="Bandera de EU" width = "17px">Inglés</a></td></tr>
  <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Bandera de Ec" width= "17px">Español</a></td></tr>
 </table>
