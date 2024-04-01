@@ -44,7 +44,7 @@ Hola-soy-jhairzp27@github
 🎵  Me encanta el heavy metal, el rock, el indie, el pop, el reaggae y la música suave.
 -----------------------------------------------------------------------------------------------
 ```
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Jhairzp27&color=orange&base=100&style=flat-square&label=Número+De+Visitantes&abbreviated=true)](https://github.com/Jhairzp27)
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> Lenguajes de programación:
@@ -84,6 +84,8 @@ Hola-soy-jhairzp27@github
 
   ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true&disable_animations=true)
 
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhairzp27&theme=codeSTACKr" height="180em" />
+
 </div>
 
 ## 🤝 Contribuciones en otros repositorios:
@@ -91,6 +93,10 @@ Hola-soy-jhairzp27@github
 <div align ="center">
   
   ![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true&show_owner=true&disable_animations=true)
+
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhairzp27&theme=codeSTACKr" height="180em" />
+
+  <!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhairzp27&theme=elegant&animation=true"/> -->
   
 </div>
 
