@@ -18,9 +18,8 @@
 </p>
 
 <table align="right" style = "margin-top: 11px" >
- <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md"><img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="EU flag" width = "17px">English</a></td>
- </tr>
- <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Ec flag" width= "17px">Spanish</a></td></tr>
+ <tr><td><a><img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="EU flag" width = "17px">English</a></td></tr>
+ <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Ec flag" width= "17px"> <span style="color: red;">Spanish</span> </a></td></tr>
 </table>
 
 # 😜 About me:
@@ -45,7 +44,7 @@ I-am-jhairzp27@github
 🎵 Love heavy metal, rock, metal, indie, pop, reggae and soft music
 -----------------------------------------------------------------------------------------------------------
 ```
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Jhairzp27&color=orange&base=100&style=flat-square&label=Profile+Views&abbreviated=true)](https://github.com/Jhairzp27)
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> Programming languages
@@ -85,6 +84,8 @@ I-am-jhairzp27@github
 
   ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true&cache_seconds=14400&disable_animations=true)
 
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhairzp27&theme=codeSTACKr" height="180em" />
+
 </div>
 
 ## 🤝 Top Contributed Repo:
@@ -92,6 +93,10 @@ I-am-jhairzp27@github
 <div align ="center">
   
   ![Contribution](https://github-contributor-stats.vercel.app/api?username=Jhairzp27&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true&cache_seconds=14400&show_owner=true&disable_animations=true)
+  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhairzp27&theme=codeSTACKr" height="180em" />
+
+  <!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhairzp27&theme=elegant&animation=true"/> -->
   
 </div>
 
