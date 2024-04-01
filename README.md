@@ -5,7 +5,7 @@
 
 <!--- My Social Networks:-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhair-zambrano-6a6a13273"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/LinkedIn.png"/></a>
+  <a href="https://www.linkedin.com/in/gregoy-jhair-zambrano-6a6a13273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRd%2BEmYf6Q1%2BYn%2FMGcRjF%2Fw%3D%3D"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/LinkedIn.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/jhairzp27"><img width="32px" alt="Twitter" title="X (Twitter)Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/x_twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -18,8 +18,9 @@
 </p>
 
 <table align="right" style = "margin-top: 11px" >
+ <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md"><img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="EU flag" width = "17px">English</a></td>
+ </tr>
  <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Ec flag" width= "17px">Spanish</a></td></tr>
- <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README.md"><img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="EU flag" width = "17px">English</a></td></tr>
 </table>
 
 # 😜 About me:
