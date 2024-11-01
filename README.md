@@ -111,12 +111,4 @@ I-am-jhairzp27@github
 
 ![](https://github-profile-trophy.vercel.app/?username=Jhairzp27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme:
-
-<details>
-<summary>👆 Clic to view</summary>
-<p align = "center">
-<img src='https://randommeme-five.vercel.app/' style="height: 367px;"/></p>
-</details>
-
 <!--[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jhairzp27)-->
