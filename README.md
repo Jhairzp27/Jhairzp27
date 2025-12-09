@@ -27,20 +27,14 @@
 
 ## 😜 About me
 
-<div style="display: flex; align-items: flex-start;">
+<p>
+<a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" alt = "MatrixOrgange" title = "MatrixOrange">
+<img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="452px" height="287px"/></a>
 
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif"width="270px" height="239px" alt="MatrixOrange" title="MatrixOrange"/>
-    <img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="239px" height="270px"style="transform: rotate(90deg);"alt="MatrixOrange Rotated" title="MatrixOrange Rotated"/>
-  </div>
-
-  <div style="flex: 1;">
-
-  <p align = "center">
-    <a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/">
-    <img width="19px" alt="EPN" title="Escuela Politecnica Nacional" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/>
-    </a> I’m studying in National Polytechnic School.
-  </p>
+<p align = "center">
+<a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="19px" alt="EPN" title="Escuela Politecnica Nacional"
+src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I'm studying in National Politechnic School.
+</p>
 
   ``` terminal
   I-am-jhairzp27@github
@@ -53,9 +47,6 @@
   🎵 Love heavy metal, rock, metal, indie, pop, reggae and soft music
   -----------------------------------------------------------------------------------------------------------
   ```
-
-  </div>
-</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jhairzp27&color=orange&base=100&style=flat-square&label=Profile+Views&abbreviated=true)](https://github.com/Jhairzp27)
 </p>
