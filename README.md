@@ -110,7 +110,7 @@ I-am-jhairzp27@github
 
 ## 💰 You can help me by Donating
 
-[![Paypal](https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Paypal.png)](https://paypal.me/jhairzp27)
+<a href="https://paypal.me/jhairzp27"><img width="32px" alt="Paypal" title="Paypal Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Paypal.png"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 
 **Paypal**
