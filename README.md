@@ -1,4 +1,3 @@
-<!-----  SALUDO ---->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=777&height=100&lines=Gregory+Jhair+Zambrano...;Software+engineering+student;Music+Lover;Love+to+learn+new+stuffs.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="37px">
 </p>
@@ -11,29 +10,33 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/jhair_zambrano" alt="Instagram" title="Instagram"><img width="32px" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/Jhairzp27/"><img width="32px" alt="Reddit" title="Reddit Logo Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Reddit.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://paypal.me/jhairzp27"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Paypal-1.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <table align="right" style = "margin-top: 11px" >
- <tr><td><a><img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="EU flag" width = "17px">English</a></td></tr>
- <tr><td><a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md"><img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Ec flag" width= "17px"> <span style="color: red;">Spanish</span> </a></td></tr>
+ <tr><td><a>
+    <img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EU_bandera.png" alt ="EU flag" width = "17px">English
+ </a></td></tr>
+ <tr><td>
+    <a href="https://github.com/Jhairzp27/Jhairzp27/blob/main/README-lang-es.md">
+    <img src = "https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Ec_bandera.png" alt = "Ec flag" width= "17px"><span style="color: red;">Spanish</span>
+  </a></td></tr>
 </table>
 
-# 😜 About me:
+## 😜 About me
 
 <p>
-<a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" alt = "MatrixOrgange" title = "MatrixOrange">
-<img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="400px" height="250px"/></a>
+  <a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" alt = "MatrixOrgange" title = "MatrixOrange">
+    <img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="400px" height="250px"/>
+  </a>
 
-<p align = "center">
-<a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/"><img width="19px" alt="EPN" title="Escuela Politecnica Nacional"     
-src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I’m studying in National Polytechnic School.
+  <p align = "center">
+    <a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/">
+    <img width="19px" alt="EPN" title="Escuela Politecnica Nacional" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/>
+    </a> I’m studying in National Polytechnic School.
+  </p>
 </p>
 
-```
+``` terminal
 I-am-jhairzp27@github
 -----------------------------------------------------------------------------------------------------------
 🙋 I’m enthusiastic about crafting innovative applications and solving complex problems in the tech world.
@@ -44,51 +47,56 @@ I-am-jhairzp27@github
 🎵 Love heavy metal, rock, metal, indie, pop, reggae and soft music
 -----------------------------------------------------------------------------------------------------------
 ```
+
+---
 [![Profile Views](https://komarev.com/ghpvc/?username=Jhairzp27&color=orange&base=100&style=flat-square&label=Profile+Views&abbreviated=true)](https://github.com/Jhairzp27)
 </p>
+
+---
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> Programming languages
 
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=java,md,html,css"/></a>
-  <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=matlab,cpp,py,sqlite"/></a>
-</p>
-
-### ⚒️ IDES:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+  <a href="https://github.com/tandpfun/skill-icons#icons-list">
+    <img src="https://skillicons.dev/icons?i=java,md,html,css,react,nodejs"/>
+  </a>
+  <a href="https://github.com/tandpfun/skill-icons#icons-list">
+  <img src="https://skillicons.dev/icons?i=cpp,py,sqlite"/>
   </a>
 </p>
 
-### 🔎 Tools:
+### ⚒️ IDES
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,powershell,git,bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea"/>
   </a>
 </p>
 
-## 
+### 🔎 Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,vercel,powershell,git,bash,supabase"/>
+  </a>
+</p>
 
 |🔝Top languages   |   🎧Now Playing:|
 |-------------------|-----------------|
 |![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&layout=compact&count_private=true&cache_seconds=14400&disable_animations=true)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats:
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats
 
-<div align = "center"> 
-  
+<div align = "center">
+
   ![Jhairzp27 Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=14400&hide_rank=false&disable_animations=true)
 
   ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true&cache_seconds=14400&disable_animations=true)
 
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhairzp27&theme=codeSTACKr" height="180em" />
-
+  ![Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhairzp27&theme=codeSTACKr)
 </div>
 
-## 🤝 Top Contributed Repo:
+## 🤝 Top Contributed Repo
 
 <div align ="center">
   
@@ -96,19 +104,17 @@ I-am-jhairzp27@github
   
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhairzp27&theme=codeSTACKr" height="180em" />
 
-  <!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhairzp27&theme=elegant&animation=true"/> -->
-  
+  <!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jhairzp27&theme=elegant&animation=true"/> -->
+
 </div>
 
-## 💰 You can help me by Donating:
+## 💰 You can help me by Donating
 
-<a href="https://paypal.me/jhairzp27"><img width="32px" alt="Paypal" title="Paypal" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Paypal.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+[![Paypal](https://github.com/Jhairzp27/Jhairzp27/blob/main/images/Paypal.png)](https://paypal.me/jhairzp27)
+&#8287;&#8287;&#8287;&#8287;&#8287;
 
 **Paypal**
 
-## 🏆 GithHub Trophies:
+## 🏆 GithHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Jhairzp27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-<!--[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jhairzp27)-->
+![trophies](https://github-profile-trophy.vercel.app/?username=Jhairzp27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
