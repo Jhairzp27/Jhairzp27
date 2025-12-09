@@ -27,32 +27,36 @@
 
 ## 😜 About me
 
-<p>
-  <span>
-    <a href = "https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/ MatrixOrange.gif" alt = "MatrixOrgange" title = "MatrixOrange">
-      <img align="left" src ="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="270px" height="239px"/>
-    </a>
-  </span>
+<div style="display: flex; align-items: flex-start;">
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif"width="270px" height="239px" alt="MatrixOrange" title="MatrixOrange"/>
+    <img src="https://github.com/Jhairzp27/Jhairzp27/blob/main/gifs/MatrixOrange.gif" width="239px" height="270px"style="transform: rotate(90deg);"alt="MatrixOrange Rotated" title="MatrixOrange Rotated"/>
+  </div>
+
+  <div style="flex: 1;">
+
   <p align = "center">
     <a href="https://www.epn.edu.ec/welcome-to-ecuador-the-middle-of-the-world-and-to-its-top-university/">
+    <img width="19px" alt="EPN" title="Escuela Politecnica Nacional" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/>
+    </a> I’m studying in National Polytechnic School.
   </p>
-  <img width="19px" alt="EPN" title="Escuela Politecnica Nacional" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/>
-  </a> I’m studying in National Polytechnic School.
-</p>
 
-``` terminal
-I-am-jhairzp27@github
------------------------------------------------------------------------------------------------------------
-🙋 I’m enthusiastic about crafting innovative applications and solving complex problems in the tech world.
-🤝 I easily adapt and integrate into diverse work environments, fostering seamless collaboration and
-    contributing effectively to team dynamics.
-🧑‍💻 I’m passionate about learning new technologies and languages.
-🚩 Aspiring to contribute to open-source projects and build meaningful software solutions.
-🎵 Love heavy metal, rock, metal, indie, pop, reggae and soft music
------------------------------------------------------------------------------------------------------------
-```
+  ``` terminal
+  I-am-jhairzp27@github
+  -----------------------------------------------------------------------------------------------------------
+  🙋 I’m enthusiastic about crafting innovative applications and solving complex problems in the tech world.
+  🤝 I easily adapt and integrate into diverse work environments, fostering seamless collaboration and
+      contributing effectively to team dynamics.
+  🧑‍💻 I’m passionate about learning new technologies and languages.
+  🚩 Aspiring to contribute to open-source projects and build meaningful software solutions.
+  🎵 Love heavy metal, rock, metal, indie, pop, reggae and soft music
+  -----------------------------------------------------------------------------------------------------------
+  ```
 
----
+  </div>
+</div>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Jhairzp27&color=orange&base=100&style=flat-square&label=Profile+Views&abbreviated=true)](https://github.com/Jhairzp27)
 </p>
 
