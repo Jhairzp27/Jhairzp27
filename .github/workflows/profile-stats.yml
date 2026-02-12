@@ -1,0 +1,51 @@
+name: Update Profile Statistics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: Jhairzp27
+          theme: gruvbox
+          no-frame: true
+          no-bg: true
+          margin-w: 4
+          output_path: images/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate General Stats
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=Jhairzp27&theme=codeSTACKr&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&disable_animations=true
+          path: images/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&layout=compact&count_private=true&disable_animations=true
+          path: images/langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update profile stats [skip ci]"
+          file_pattern: "images/*.svg"

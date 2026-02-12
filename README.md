@@ -49,7 +49,6 @@ src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I'm 
   ```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jhairzp27&color=orange&base=100&style=flat-square&label=Profile+Views&abbreviated=true)](https://github.com/Jhairzp27)
-</p>
 
 ---
 
@@ -57,10 +56,10 @@ src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I'm 
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons#icons-list">
-    <img src="https://skillicons.dev/icons?i=java,md,html,css,react,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,md,react,nodejs"/>
   </a>
   <a href="https://github.com/tandpfun/skill-icons#icons-list">
-  <img src="https://skillicons.dev/icons?i=cpp,py,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=cpp,flutter,mysql,sqlite"/>
   </a>
 </p>
 
@@ -76,19 +75,19 @@ src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I'm 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,powershell,git,bash,supabase"/>
+    <img src="https://skillicons.dev/icons?i=netlify,vercel,powershell,git,bash,supabase"/>
   </a>
 </p>
 
 |🔝Top languages   |   🎧Now Playing:|
 |-------------------|-----------------|
-|![MostLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&layout=compact&count_private=true&cache_seconds=14400&disable_animations=true)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
+|![MostLanguages](./images/langs.svg)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats
 
 <div align = "center">
 
-  ![Jhairzp27 Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=14400&hide_rank=false&disable_animations=true)
+  ![Jhairzp27 Stats](./images/stats.svg)
 
   ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true&cache_seconds=14400&disable_animations=true)
 
@@ -116,4 +115,4 @@ src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I'm 
 
 ## 🏆 GithHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=Jhairzp27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![trophies](./images/trophy.svg)

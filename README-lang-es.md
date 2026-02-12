@@ -46,7 +46,6 @@ Hola-soy-jhairzp27@github
 ```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jhairzp27&color=orange&base=100&style=flat-square&label=Número+De+Visitantes&abbreviated=true)](https://github.com/Jhairzp27)
-</p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> Lenguajes de programación:
 
@@ -75,13 +74,13 @@ Hola-soy-jhairzp27@github
 
 |🔝Lenguajes mas usados   |   🎧Escuchando:|
 |-------------------|-----------------|
-|![Lenguajes mas usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhairzp27&theme=codeSTACKr&hide_border=true&include_all_commits=true&layout=compact&count_private=true&cache_seconds=14400&disable_animations=true)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
+|![Lenguajes mas usados](./images/langs.svg)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> Mis estadísticas en GitHub:
 
 <div align = "center">
-  
-  ![Jhairzp27 Stats](https://github-readme-stats.vercel.app/api?username=Jhairzp27&theme=codeSTACKr&bg_color&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&disable_animations=true)
+
+  ![Jhairzp27 Estadisticas](./images/stats.svg)
 
   ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true&disable_animations=true)
 
@@ -110,6 +109,6 @@ Hola-soy-jhairzp27@github
 
 ## 🏆 Trofeos de GitHub:
 
-![](https://github-profile-trophy.vercel.app/?username=Jhairzp27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![Trofeos Jhairzp27](./images/trophy.svg)
 
 <!--[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jhairzp27)-->
