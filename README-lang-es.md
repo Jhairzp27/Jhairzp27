@@ -50,15 +50,15 @@ Hola-soy-jhairzp27@github
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> Lenguajes de programación:
 
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=java,md,html,css"/></a>
-  <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=matlab,cpp,py,sqlite"/></a>
+  <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=java,py,html,css,js,md,react,nodejs"/></a>
+  <a href="https://github.com/tandpfun/skill-icons#icons-list"><img src="https://skillicons.dev/icons?i=cpp,flutter,mysql,sqlite"/></a>
 </p>
 
 ### ⚒️ IDES:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@ Hola-soy-jhairzp27@github
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,powershell,git,bash" />
+    <img src="https://skillicons.dev/icons?i=netlify,vercel,powershell,git,bash,supabase" />
   </a>
 </p>
 
