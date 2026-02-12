@@ -87,7 +87,9 @@ src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I'm 
 
 <div align = "center">
 
-  ![Jhairzp27 Stats](./images/stats.svg)
+  ![Jhairzp27 Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Jhairzp27?cardType=level&background=0d1117&ring=EF5122&title=EF5122&icon=FFE400&text=ffffff&font=Segoe%20UI&Border=DD272700)
+
+[//]: # (  ![Jhairzp27 Stats]&#40;./images/stats.svg&#41;)
 
   ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true&cache_seconds=14400&disable_animations=true)
 

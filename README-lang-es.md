@@ -80,7 +80,9 @@ Hola-soy-jhairzp27@github
 
 <div align = "center">
 
-  ![Jhairzp27 Estadisticas](./images/stats.svg)
+  ![Jhairzp27 Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Jhairzp27?cardType=level&background=0d1117&ring=EF5122&title=EF5122&icon=FFE400&text=ffffff&font=Segoe%20UI&Border=DD272700)
+
+[//]: # (  ![Jhairzp27 Estadisticas]&#40;./images/stats.svg&#41;)
 
   ![Jhairzp27 Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jhairzp27&theme=codeSTACKr&hide_border=true&disable_animations=true)
 
