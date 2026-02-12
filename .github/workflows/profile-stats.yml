@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate Trophies
         run: |
-          curl -o images/trophy.svg "https://github-profile-trophy.vercel.app/?username=Jhairzp27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"
+          curl -o images/trophy.svg "https://github-profile-trophy.screw-hand.vercel.app/?username=Jhairzp27&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"
 
       - name: Generate General Stats
         uses: soulteary/github-readme-stats-action@v1
