@@ -81,7 +81,7 @@ src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/EPN.png"/></a> I'm 
 
 |🔝Top languages   |   🎧Now Playing:|
 |-------------------|-----------------|
-|![MostLanguages](./images/langs.svg)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
+|![MostLanguages](./images/langs.svg)|[![Spotify](https://spotify-now-playing-jhairzp27s-projects.vercel.app/api/spotify?v=1)](https://open.spotify.com/user/9weo8xzgmjckskm60cl62w34g?si=15a31546f79a485c)|
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> GitHub Stats
 
