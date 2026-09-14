@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=EF5122&size=25&center=true&vCenter=true&width=777&height=100&lines=Gregory+Jhair+Zambrano...;+Estudiante+de+Ingeniería+en+Software;Me+encanta+la+música;Enfocado+en+aprender+nuevas+habilidades.."></a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="37px">
 </p>
+
 <!--- My Social Networks:-->
 <p align="center">
   <a href="https://www.linkedin.com/in/gregoy-jhair-zambrano-6a6a13273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRd%2BEmYf6Q1%2BYn%2FMGcRjF%2Fw%3D%3D"><img width="32px" alt="LinkedIn" title="LinkedIn Jhair" src="https://github.com/Jhairzp27/Jhairzp27/blob/main/images/LinkedIn.png"/></a>
